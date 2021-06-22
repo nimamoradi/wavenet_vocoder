@@ -10,8 +10,6 @@
   "fft_size": 1024,
   "hop_size": 256,
   "frame_shift_ms": null,
-  "rescaling": true,
-  "rescaling_max": 0.999,
   "allow_clipping_in_normalization": true,
   "log_scale_min": -32.23619130191664,
   "out_channels": 30,
