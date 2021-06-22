@@ -10,7 +10,6 @@
   "fft_size": 1024,
   "hop_size": 256,
   "frame_shift_ms": null,
-  "ref_level_db": 20,
   "rescaling": true,
   "rescaling_max": 0.999,
   "allow_clipping_in_normalization": true,
