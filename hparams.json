@@ -21,12 +21,6 @@
   "kernel_size": 3,
   "cin_channels": 80,
   "upsample_conditional_features": true,
-  "upsample_scales": [
-    4,
-    4,
-    4,
-    4
-  ],
   "freq_axis_kernel_size": 3,
   "gin_channels": -1,
   "n_speakers": 7,
